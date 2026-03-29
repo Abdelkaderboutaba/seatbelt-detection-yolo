@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+HEAD
 # Seatbelt Detection using YOLOv8
 
 This project implements a seatbelt detection system using YOLOv8.
